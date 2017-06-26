@@ -1,0 +1,20 @@
+
+Solution 1
+background  style="background: #E5ECE1;
+color background: #FC8122;
+font-color background: #0C1A25;
+
+Solution 2
+background background: #69C0BA;
+color background: #FFF100;
+color background: #F5185A;
+
+Solution 3
+background background: #bbe4f9;
+color background: #00a5e0;
+color background: #af588f;
+
+S 4:
+#69C0BA
+background: #FFF100;
+background: #F5185A;
