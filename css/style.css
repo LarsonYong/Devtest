@@ -43,14 +43,15 @@ a{
     text-decoration: none;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #333333;
+    height:100%;
 }
 .div{
-    display: block;
+    display: inline;
     height:100%;
     line-height: 100%;
 }
 * {
-    box-sizing: border-box;
+
 }
 .header-wrapper{
     margin: 1px;
@@ -170,6 +171,7 @@ a{
 .footer-container{
     margin: 0 10% 1% 10%;
     border-top: 1px solid;
+    border-top-color: #32B67A;
     position: relative;
     overflow: hidden;
 }
@@ -231,4 +233,17 @@ a{
 .quick-link-box h2:hover{
     font-size: 0.9em;
     color: #32B67A;
+}
+.Gateway-box{
+    overflow: hidden;
+}
+.Gateway-detail{
+    display: inline-block;
+    overflow: hidden;
+}
+.Gateway-head{
+    width:8%;
+    display: inline;
+    height: 100%;
+    overflow: hidden;
 }
